@@ -31,7 +31,7 @@ https://github.com/Kichi779/Twitch-Multi-Stream/assets/92625816/b8fc9a97-3cbe-4c
 
   
 ```sh
-git clone https://github.com/Kichi779/Twitch-Viewer-Bot kichimultistream
+git clone https://github.com/Kichi779/Twitch-Multi-Stream kichimultistream
 
 cd kichimultistream
 
