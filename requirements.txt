@@ -1,0 +1,7 @@
+subprocess
+os
+time
+colorama
+pystyle
+tkinter
+filedialog
