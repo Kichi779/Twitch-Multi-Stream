@@ -22,7 +22,7 @@ https://github.com/Kichi779/Twitch-Multi-Stream/assets/92625816/b8fc9a97-3cbe-4c
 
 # 📥 Installation & Usage
 
-### **FFMPEG needs to be installed. I can't install it on Github because of the 25 mb limit. [DOWNLOAD FFMPEG ](https://files.fm/f/3erbuq3np)**
+### **FFMPEG needs to be installed. I can't install it on Github because of the 25 mb limit. [DOWNLOAD FFMPEG ](https://files.fm/f/3erbuq3np) or you can download it from the release section on the right side.**
 
 ### - For the detailed installation pdf, which is the solution to all errors, come to my [discord server](https://discord.gg/UkSJP8RUxc)
 
