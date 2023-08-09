@@ -2,6 +2,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [Discord](https://discord.gg/fesaScZqpn)ㅤ[Github](https://github.com/Kichi779)ㅤ[Shop](https://kichi779.online/)
 
+
 **With this software, you can open more than one twitch stream at the same time.**
 
 **Because it opens in the most ideal settings, it does not use its processor and RAM like other broadcast applications.**
@@ -20,6 +21,8 @@ https://github.com/Kichi779/Twitch-Multi-Stream/assets/92625816/b8fc9a97-3cbe-4c
 
 
 # 📥 Installation & Usage
+
+### **ffmpeg needs to be installed. I can't install it on Githuba because of the 25 mb limit. [DOWNLOAD FFMPEG ](https://files.fm/f/3erbuq3np)
 
 ### - For the detailed installation pdf, which is the solution to all errors, come to my [discord server](https://discord.gg/UkSJP8RUxc)
 
