@@ -1,6 +1,5 @@
 ![kichimultist](https://github.com/Kichi779/Twitch-Multi-Stream/assets/92625816/a460cc5c-c4fc-4ba0-953d-6cb01d8f6f49)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-[Discord](https://discord.gg/fesaScZqpn)ㅤ[Github](https://github.com/Kichi779)ㅤ[Shop](https://kichi779.online/)
+
 
 
 **With this software, you can open more than one twitch stream at the same time.**
@@ -24,7 +23,6 @@ https://github.com/Kichi779/Twitch-Multi-Stream/assets/92625816/b8fc9a97-3cbe-4c
 
 ### **FFMPEG needs to be installed. I can't install it on Github because of the 25 mb limit. [DOWNLOAD FFMPEG ](https://files.fm/f/3erbuq3np) or you can download it from the release section on the right side.**
 
-### - For the detailed installation pdf, which is the solution to all errors, come to my [discord server](https://discord.gg/UkSJP8RUxc)
 
 - Python must be installed
 - If your Python is not installed, download the latest version (3.11) of python and make sure to click on the 'ADD TO PATH' during installation.
@@ -52,11 +50,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 # Stars ⭐
 - More detailed features / 25 Star ⭐ ❌
 
-# [🛒 Shop](https://kichi779.online/)
-  ㅤㅤ  ㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779.online/
-
- [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
 
 
 # ⚠️Legal⚠️
